@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          default-label: config-server
+          default-label: master
           uri: https://github.com/charlyatos/consultorioMS
           search-paths: config-data
   application:
